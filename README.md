@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer+and+Blockchain+Enthusiast;">
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alimazhar4&label=Profile%20Views&color=0e75b6&style=flat" alt="alimazhar4" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alimazhar4&label=Profile%20Views&color=0e75b6&style=flat-square" alt="alimazhar4" /> </p>
 
 <h2>About Me</h2>
 
@@ -11,9 +11,11 @@
 {
   "name": "Ali Mazhar",
   "age": 22,
-  "location": "Islamabad, Pakistan"
-  "occupation": "3rd Year Computer Science Student - NUST",
+  "location": "Islamabad, Pakistan",
+  "education": "3rd Year - Bachelor's of Science in Computer Science (BSCS)",
+  "institute": "National University of Science and Technology (NUST)",
   "skills": ["React Js", "Next Js", "Node Js", "Solidity", "WordPress", "Figma", "Adobe Illustrator"]
+  "likes": ["Football", "Cryptocurrencies", "NFTs", "Economics", "Memes"]
 }
 ```
 
