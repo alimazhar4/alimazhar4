@@ -9,11 +9,11 @@
 
 ```yaml
 {
-"name": "Ali Mazhar",
-"age": 22,
-"location": "Islamabad, Pakistan"
-"occupation": "3rd Year Computer Science Student - NUST",
-"skills": ["React Js", "Next Js", "Node Js", "Solidity", "WordPress", "Figma", "Adobe Illustrator"]
+  "name": "Ali Mazhar",
+  "age": 22,
+  "location": "Islamabad, Pakistan"
+  "occupation": "3rd Year Computer Science Student - NUST",
+  "skills": ["React Js", "Next Js", "Node Js", "Solidity", "WordPress", "Figma", "Adobe Illustrator"]
 }
 ```
 
