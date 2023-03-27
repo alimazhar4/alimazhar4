@@ -19,6 +19,14 @@
 }
 ```
 
+<h2>Github Stats</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alimazhar4&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alimazhar4&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alimazhar4&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=c&hide_border=true" alt="alimazhar4" /></p>
+
+ 
 <h2 align="left">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/alimazhar4/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/59063759/223202989-4221e075-0ff5-44d3-b32f-40c99bfa4c7b.svg" alt="@alimazhar4" height="30" width="40" /></a>
