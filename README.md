@@ -3,7 +3,11 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer+and+Blockchain+Enthusiast;">
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alimazhar4&label=Profile%20Views&color=0e75b6&style=flat-square" alt="alimazhar4" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=alimazhar4&label=Profile%20Views&color=0e75b6&style=flat-square" alt="alimazhar4" />
+  <img src="https://img.shields.io/github/followers/alimazhar4.svg?style=social&label=Follow&maxAge=2592000" />
+</p>
+
 
 <h2>About Me</h2>
 
@@ -21,10 +25,12 @@
 
 <h2>Github Stats</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alimazhar4&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=alimazhar4&theme=tokyonight&hide_border=true" />
+  <img width="51.5%" src="https://github-readme-streak-stats.herokuapp.com?user=alimazhar4&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" />
+  <img width="46.5%" src="https://github-readme-stats.vercel.app/api?username=alimazhar4&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alimazhar4&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=c&hide_border=true" alt="alimazhar4" /></p>
+<p align="center">
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimazhar4&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=c&hide_border=true" alt="alimazhar4" />
+</p>
 
  
 <h2 align="left">Connect with me:</h2>
