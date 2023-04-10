@@ -5,7 +5,6 @@
 </p>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=alimazhar4&label=Profile%20Views&color=0e75b6&style=flat-square" alt="alimazhar4" />
-  <img src="https://img.shields.io/github/followers/alimazhar4.svg?style=social&label=Follow&maxAge=2592000" />
 </p>
 
 
