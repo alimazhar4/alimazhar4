@@ -14,10 +14,10 @@
 {
   "name": "Ali Mazhar",
   "age": 22,
-  "location": "Islamabad, Pakistan",
+  "location": "Islamabad - Pakistan",
   "currentlyDoing": "3rd Year - Bachelor's of Science in Computer Science (BSCS)",
   "institute": "National University of Science and Technology (NUST)",
-  "skills": ["React Js", "Next Js", "Node Js", "Solidity", "WordPress", "Figma", "Adobe Illustrator"],
+  "skills": ["Next Js", "Node Js", "MERN", "Solidity", "Hardhat", "WordPress", "Figma", "Adobe Illustrator"],
   "likes": ["Football", "Cryptocurrencies", "NFTs", "Economics", "Memes"]
 }
 ```
