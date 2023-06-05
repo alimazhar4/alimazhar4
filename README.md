@@ -24,8 +24,8 @@
 
 <h2>Github Stats</h2>
 <p align="center">
-  <img width="51.5%" src="https://github-readme-streak-stats.herokuapp.com?user=alimazhar4&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" />
-  <img width="46.5%" src="https://github-readme-stats.vercel.app/api?username=alimazhar4&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=alimazhar4&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" />
+  <!--<img width="46.5%" src="https://github-readme-stats.vercel.app/api?username=alimazhar4&theme=tokyonight&hide_border=true" />-->
 </p>
 <p align="center">
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimazhar4&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=c&hide_border=true" alt="alimazhar4" />
