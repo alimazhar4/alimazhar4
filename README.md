@@ -6,7 +6,7 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=alimazhar4&label=Profile%20Views&color=0e75b6&style=flat-square" alt="alimazhar4" />
 </p>
-
+ 
 
 <h2>About Me</h2>
 
