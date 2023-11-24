@@ -13,7 +13,7 @@
 ```yaml
 {
   "name": "Ali Mazhar",
-  "age": 22,
+  "age": 23,
   "location": "Islamabad - Pakistan",
   "currentlyDoing": "4th Year - Bachelor's of Science in Computer Science (BSCS)",
   "institute": "National University of Science and Technology (NUST)",
