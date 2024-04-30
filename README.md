@@ -15,7 +15,8 @@
   "name": "Ali Mazhar",
   "age": 23,
   "location": "Islamabad - Pakistan",
-  "currentlyDoing": "4th Year - Bachelor's of Science in Computer Science (BSCS)",
+  "currentOccupation": "Full Stack Engineer - QuantumHub",
+  "education": "4th Year - Bachelor's of Science in Computer Science (BSCS)",
   "institute": "National University of Science and Technology (NUST)",
   "skills": ["React Js", "Next Js", "Node Js", "MERN", "Redux", "Three.js", "Solidity", "Hardhat", "WordPress", "Figma", "Adobe Illustrator"],
   "likes": ["Football", "Cryptocurrencies", "NFTs", "Economics", "Memes"]
