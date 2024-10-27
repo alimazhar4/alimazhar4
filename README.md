@@ -18,7 +18,7 @@
   "currentOccupation": "Full Stack Engineer",
   "qualification": "Bachelor's of Science in Computer Science (BSCS)",
   "institute": "National University of Science and Technology (NUST)",
-  "skills": ["React Js", "Next Js", "Node Js", "MERN", "Redux", "Three.js", "AWS", "Tailwind CSS", "SQL", "MongoDB", "WordPress", "Figma", "Adobe Illustrator"],
+  "skills": ["React Js", "Next Js", "Node Js", "MERN", "Redux", "AWS", "Tailwind CSS", "SQL", "MongoDB", "PostgreSQL", "WordPress", "Figma", "Adobe Illustrator"],
   "likes": ["Football", "Cryptocurrencies", "Economics", "Memes"]
 }
 ```
