@@ -13,7 +13,7 @@
 ```yaml
 {
   "name": "Ali Mazhar",
-  "age": 23,
+  "age": 24,
   "location": "Faisalabad - Pakistan",
   "currentOccupation": "Full Stack Engineer",
   "qualification": "Bachelor's of Science in Computer Science (BSCS)",
