@@ -37,6 +37,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/alimazhar4/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/59063759/223202989-4221e075-0ff5-44d3-b32f-40c99bfa4c7b.svg" alt="@alimazhar4" height="30" width="40" /></a>
 <a href="https://discord.com/users/AliMazhar4#1086" target="blank"><img align="center" src="https://user-images.githubusercontent.com/59063759/223202408-21fbf6ec-cb89-4efa-9841-e18c7040630a.svg" alt="@alimazhar4" height="30" width="40" /></a>
-<a href="https://instagram.com/alimazhar.exe" target="blank"><img align="center" src="https://user-images.githubusercontent.com/59063759/223202527-1b387215-8834-4f34-bd33-eb36de2fc9cc.svg" alt="@alimazhar4" height="30" width="40" /></a>
-<a href="mailto:alimaza4444@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/59063759/223203494-11a955d6-34d9-4a92-8bc3-3d1527f93034.svg" alt="@alimazhar4" height="30" width="40" /></a>
+<a href="https://instagram.com/alimazhar.exe" target="blank"><img align="center" src="https://user-images.githubusercontent.com/59063759/223202527-1b387215-8834-4f34-bd33-eb36de2fc9cc.svg" alt="@alimazhar.exe" height="30" width="40" /></a>
+<a href="mailto:alimaza4444@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/59063759/223203494-11a955d6-34d9-4a92-8bc3-3d1527f93034.svg" alt="alimaza4444@gmail.com" height="30" width="40" /></a>
+<a href="https://alimazhar.dev/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/08e03134-cd01-4587-b1ff-c1859c75dcc6" alt="alimazhar.dev" height="40" width="40" /></a>
 </p>
