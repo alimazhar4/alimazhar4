@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi there 👋, I am Ali Mazhar</b></h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Web+Developer;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Lead+Full+Stack+Web+Developer;">
 </p>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=alimazhar4&label=Profile%20Views&color=0e75b6&style=flat-square" alt="alimazhar4" />
@@ -18,7 +18,7 @@
   "currentOccupation": "Full Stack Engineer",
   "qualification": "Bachelor's of Science in Computer Science (BSCS)",
   "institute": "National University of Science and Technology (NUST)",
-  "skills": ["React Js", "Next Js", "Node Js", "MERN", "Redux", "AWS", "Tailwind CSS", "SQL", "MongoDB", "PostgreSQL", "WordPress", "Figma", "Adobe Illustrator"],
+  "skills": ["React Js", "Next Js", "Node Js", "MERN", "Redux", "AWS", "n8n", "Tailwind CSS", "SQL", "MongoDB", "PostgreSQL", "WordPress", "Figma", "Adobe Illustrator"],
   "likes": ["Football", "Cryptocurrencies", "Economics", "Memes"]
 }
 ```
